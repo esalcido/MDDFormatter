@@ -36,9 +36,9 @@ public class MDDFormatter {
     public static void main(String[] args) throws IOException {
 
         String directory = "/Users/edward_salcido/Downloads/";
-        String inputfilePath = directory + "result.xlsx";
-        String outputFileName = directory + "FirstNiagara-MDM-4-14-15.csv";
-        String outputSheet = "result.csv";
+        String inputfilePath = directory + "result (5).xlsx";
+        String outputFileName = directory + "FirstNiagara-ContactCenter-MDM-4-14-15.csv";
+        String outputSheet = "result (5).csv";
 
        //file stuff
        // String file = getFile();
@@ -221,7 +221,7 @@ public class MDDFormatter {
     }
 
 
-    //get file from user
+    //TODO: get file from user
     public static String getFile(){
 
         String dataMapFile1 = "";
