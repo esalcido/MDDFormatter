@@ -29,8 +29,8 @@
       <file leaf-file-name="MDDFormatter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MDDFormatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7330827" vertical-offset="2895" max-vertical-offset="4740">
-              <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43233082" vertical-offset="2895" max-vertical-offset="4740">
+              <caret line="238" column="45" selection-start-line="238" selection-start-column="45" selection-end-line="238" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -50,7 +50,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
+    <option name="x" value="136" />
     <option name="y" value="38" />
     <option name="width" value="1495" />
     <option name="height" value="895" />
@@ -431,16 +431,16 @@
       <workItem from="1428700921063" duration="7107000" />
       <workItem from="1429737169315" duration="1588000" />
       <workItem from="1430324744367" duration="2654000" />
-      <workItem from="1432159926409" duration="2123000" />
+      <workItem from="1432159926409" duration="2168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20354000" />
+    <option name="totallyTimeSpent" value="20399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="38" width="1495" height="895" extended-state="1" />
-    <editor active="false" />
+    <frame x="136" y="38" width="1495" height="895" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -558,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MDDFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7330827" vertical-offset="2895" max-vertical-offset="4740">
-          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43233082" vertical-offset="2895" max-vertical-offset="4740">
+          <caret line="238" column="45" selection-start-line="238" selection-start-column="45" selection-end-line="238" selection-end-column="45" />
           <folding />
         </state>
       </provider>
